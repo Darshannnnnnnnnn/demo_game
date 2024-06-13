@@ -15,7 +15,7 @@ OBSTACLE_SPEED = 7
 WOLF_ANIMATION_SPEED = 0.1
 ROCK_SPACING = 500  # Adjusted rock spacing
 WOLF_WIDTH = 100  # Adjusted wolf width
-WOLF_HEIGHT = 50  # Adjusted wolf height
+WOLF_HEIGHT = 100  # Adjusted wolf height
 
 # Colors
 WHITE = (255, 255, 255)
